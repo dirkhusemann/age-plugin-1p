@@ -36,7 +36,7 @@
           pname = "age-plugin-1p";
           version = "0.1.0";
           src = ./.;
-          vendorHash = "sha256-3N64YOPNMbDADPGA6+Ei/Dvq0CHCHeBFHje2cLwfV/E=";
+          vendorHash = "sha256-WrdwhlaqciVEB2L+Dh/LEeSE7I3+PsOTW4c+0yOKzKY=";
         };
 
         packages.default = pkgs.buildEnv {
